@@ -1,1 +1,1 @@
-# ⚠️ Migrated to: https://gitlab.com/filewave/software/prometheus-cpp
+# ⚠️ Migrated to: https://gitlab.com/fw-oss/prometheus-cpp
